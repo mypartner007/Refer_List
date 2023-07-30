@@ -53,7 +53,7 @@ link6: https://mdpi-res.com/d_attachment/remotesensing/remotesensing-12-01488/ar
 
 2023/7/30
 -
-title: Virtex - 4QV static SEV Characterization summary
+title: Virtex - 4QV static SEU Characterization summary
 
 link1: http://parts.jpl.nasa.gov/docs/NEPP07/NEPP07FPGAv4static.pdf
 
