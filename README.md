@@ -51,3 +51,12 @@ link5: https://digitallibrary.un.org/record/590602/files/FCCC_SBSTA_2006_MISC.14
 
 link6: https://mdpi-res.com/d_attachment/remotesensing/remotesensing-12-01488/article_deploy/remotesensing-12-01488.pdf
 
+2023/7/30
+-
+title: Virtex - 4QV static SEV Characterization summary
+
+link1: http://parts.jpl.nasa.gov/docs/NEPP07/NEPP07FPGAv4static.pdf
+
+link2: https://corpora.tika.apache.org/base/docs/govdocs1/972/972424.pdf
+
+
