@@ -1,6 +1,6 @@
 # Refer_List
 
-2023/09/20
+2023/09/20 (520-19)
 -
 title: Microwave and RF design of wireless Systems
 
@@ -17,25 +17,3 @@ link: https://rizkia.staff.telkomuniversity.ac.id/files/2016/02/Digital-and-Anal
 title: RF and Microwave Circuit Design - A Design Approach using (ADS) 2015
 
 link: https://pusdataspm.kemenag.go.id/p7//uploads/record?docid=Y56114q&readPDF=microwave%20circuit%20design%20a%20practical%20approach%20using%20ads%20pdf.pdf
-
-2023/09/12 (already done)
-- 
-title: IC-F211 Service manual
-
-link: http://www.radioscanner.ru/files/download/file2181/f210_f211_sm.pdf
-
-title: IC-F211 CSF100 software
-
-link: http://www.radioscanner.ru/files/download/file1381/csf100.rar
-
-title: IC-F6028H Service manual
-
-link: http://www.radioscanner.ru/files/download/file21894/ic-f5020_ic-f6020.pdf
-
-title: IC-F6028H CSF5028 software
-
-link:
-
-title: Free source code of radio receiver
-
-link: https://github.com/google/radioreceiver
