@@ -1,11 +1,5 @@
 # Refer_List
 
-2023/09/25
--
-title: systemvue 2017 installer
-
-link: https://files2.freedownloadmanager.org/6/latest/fdm_x64_setup.exe?from=b_fdmlib
-
 2023/09/20
 -
 title: Microwave and RF design of wireless Systems
