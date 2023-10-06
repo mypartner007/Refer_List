@@ -1,5 +1,7 @@
 # Refer_List
 
+https://www.academia.edu/21279538/Electrodynamic_Simulation_of_High_Voltage_Peaking_Switch
+
 2023/09/20 (520-19)
 -
 title: Microwave and RF design of wireless Systems
