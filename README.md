@@ -1,21 +1,23 @@
 # Refer_List
 
-https://www.academia.edu/21279538/Electrodynamic_Simulation_of_High_Voltage_Peaking_Switch
-
-2023/09/20 (520-19)
+2023/11/09 (1212-ST)
 -
-title: Microwave and RF design of wireless Systems
+title: PDF 气象卫星有效载荷技术
 
-link: https://pce-fet.com/common/library/books/33/9509_[David_M._Pozar]_Microwave_and_Rf_Design_of_Wirele(b-ok.org).pdf
+link: https://www.cma.gov.cn/zfxxgk/gknr/flfgbz/bz/202102/P020210210465672533882.pdf
 
-title: RF Microelectronics
+title: PDF 航天光学遥感技术
 
-link: https://picture.iczhiku.com/resource/eetop/WYKgsQqKzSDpFmbM.pdf
+link: https://www.researching.cn/ArticlePdf/m00029/2011/38/10/2011-10-0084.pdf
 
-title: Digital and Analog communications Systems
+title: PDF Ian Dowman, Karsten Jacobsen High resolution Optical Satellite Imagery Whittles publishing 2012
 
-link: https://rizkia.staff.telkomuniversity.ac.id/files/2016/02/Digital-and-Analog-Communication-Systems-Leon-W.-Couch.pdf
+link: https://core.ac.uk/download/pdf/80312601.pdf
 
-title: RF and Microwave Circuit Design - A Design Approach using (ADS) 2015
+title: PDF Shen-En Qian, Optical Payloads for Space Missions, Canadian Space Agency, Canada, 2016
 
-link: https://pusdataspm.kemenag.go.id/p7//uploads/record?docid=Y56114q&readPDF=microwave%20circuit%20design%20a%20practical%20approach%20using%20ads%20pdf.pdf
+link: https://status.restek.wwu.edu/32182/b/pdf/url?PDF=international-space-station.pdf
+
+title: PDF W. Paul Menzel, REMOTE SENSING APPLICATIONS WITH METEOROLOGICAL SATELLITES, NOAA Satelite and Information Service University of Wisconsin Madison, WI, February 2006
+
+link: https://cimss.ssec.wisc.edu/rss/benevento/source/AppMetSat06.pdf
